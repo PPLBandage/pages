@@ -43,17 +43,14 @@ function greet() {
 }
 ```
 <Note>
-Test
+Примечание
 </Note>
 
-<Note>
-<script>alert("hello from XSS vulnerability :)");</script>
-</Note>
+<Tip>
+Подсказка
+</Tip>
 
-<Note>
-<p>1<a href="https://pepsi.andcool.ru">2</a>3</p>
-</Note>
+<Warn>
+Предупреждение
+</Warn>
 
-<Note>
-<img src="https://pplbandage.ru/api/v1/workshop/wrbs4h/og" />
-</Note>
