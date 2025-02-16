@@ -53,3 +53,7 @@ Test
 <Note>
 <p>1<a href="https://pepsi.andcool.ru">2</a>3</p>
 </Note>
+
+<Note>
+<p onclick="alert('You got XSS :)');">get XSS </p>
+</Note>
