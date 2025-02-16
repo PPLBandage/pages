@@ -55,5 +55,5 @@ Test
 </Note>
 
 <Note>
-<p onclick="alert('You got XSS :)');">get XSS </p>
+<p onClick="alert('You got XSS :)');">get XSS </p>
 </Note>
