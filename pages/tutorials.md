@@ -49,3 +49,7 @@ Test
 <Note>
 <script>alert("hello from XSS vulnerability :)");</script>
 </Note>
+
+<Note>
+<p>1<b>2</b>3</p>
+</Note>
