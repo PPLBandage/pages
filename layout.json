@@ -3,5 +3,10 @@
     "slug": "tutorials",
     "name": "Туториалы",
     "url": "/pages/tutorials.md"
+  },
+  {
+    "slug": "test",
+    "name": "Тест",
+    "url": "/pages/test.md"
   }
 ]
