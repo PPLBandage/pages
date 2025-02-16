@@ -34,3 +34,12 @@
 function greet() {
     console.log('Hello, Markdown!');
 }
+```
+
+- [x] 123
+- [ ] 123
+
+> 123
+
+> [!NOTE]
+> 123
