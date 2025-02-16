@@ -51,5 +51,5 @@ Test
 </Note>
 
 <Note>
-<p>1<b>2</b>3</p>
+<p>1<a href="https://pepsi.andcool.ru">2</a>3</p>
 </Note>
