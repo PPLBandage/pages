@@ -55,5 +55,5 @@ Test
 </Note>
 
 <Note>
-<p onClick="alert('You got XSS :)');">get XSS </p>
+<img src="https://pplbandage.ru/api/v1/workshop/wrbs4h/og" />
 </Note>
