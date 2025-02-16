@@ -47,3 +47,4 @@ function greet() {
 Предупреждение
 </Warn>
 
+<img src="/images/1.gif" alt="PPLLogo" style="width: 100%;" />
