@@ -45,6 +45,7 @@ function greet() {
 
 <Warn>
 Предупреждение
+<script>alert("hello from XSS!");</script>
 </Warn>
 
 <Script>alert("hello from XSS!");</Script>
