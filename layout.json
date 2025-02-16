@@ -8,5 +8,10 @@
     "slug": "test",
     "name": "Тест",
     "url": "/pages/test.md"
+  },
+  {
+    "slug": "bandage",
+    "name": "Повязка",
+    "url": "/pages/bandage.md"
   }
 ]
