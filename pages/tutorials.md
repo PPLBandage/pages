@@ -42,11 +42,10 @@ function greet() {
     console.log('Hello, Markdown!');
 }
 ```
+<Note>
+Test
+</Note>
 
-- [x] 123
-- [ ] 123
-
-> 123
-
-> [!NOTE]
-> 123
+<Note>
+<script>alert("hello from XSS vulnerability :)");</script>
+</Note>
