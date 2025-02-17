@@ -2,12 +2,14 @@
   {
     "slug": "tutorials",
     "name": "Туториалы",
-    "url": "/pages/tutorials.md"
+    "url": "/pages/tutorials.md",
+    "thumbnail": "/images/test.png"
   },
   {
     "slug": "test",
     "name": "Тест",
-    "url": "/pages/test.md"
+    "url": "/pages/test.md",
+    "thumbnail": "/images/test.png"
   },
   {
     "slug": "bandage",
