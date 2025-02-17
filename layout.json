@@ -3,12 +3,14 @@
     "slug": "tutorials",
     "name": "Туториалы",
     "url": "/pages/tutorials.md",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "thumbnail": "/images/test.png"
   },
   {
     "slug": "test",
     "name": "Тест",
     "url": "/pages/test.md",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet sapien tincidunt, feugiat metus eget, consequat purus.",
     "thumbnail": "/images/test.png"
   },
   {
