@@ -13,6 +13,7 @@
     "slug": "bandage",
     "name": "Создание повязки",
     "url": "/pages/bandage.md",
-    "description": "Инструкция о том, как создать свою первую повязку."
+    "description": "Инструкция о том, как создать свою первую повязку.",
+    "thumbnail": "/images/test.png"
   }
 ]
