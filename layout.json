@@ -11,7 +11,8 @@
   },
   {
     "slug": "bandage",
-    "name": "Повязка",
-    "url": "/pages/bandage.md"
+    "name": "Создание повязки",
+    "url": "/pages/bandage.md",
+    "decription": "Инструкция о том, как создать свою первую повязку."
   }
 ]
