@@ -4,20 +4,23 @@
     "name": "Туториалы",
     "url": "/pages/tutorials.md",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "thumbnail": "/images/1.gif"
+    "thumbnail": "/images/1.gif",
+    "tag": "TUTORIAL"
   },
   {
     "slug": "test",
     "name": "Тест",
     "url": "/pages/test.md",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet sapien tincidunt, feugiat metus eget, consequat purus.",
-    "thumbnail": "/images/test.png"
+    "thumbnail": "/images/test.png",
+    "tag": "UPDATE"
   },
   {
     "slug": "bandage",
     "name": "Создание повязки",
     "url": "/pages/bandage.md",
     "description": "Инструкция о том, как создать свою первую повязку.",
-    "thumbnail": "/images/test.png"
+    "thumbnail": "/images/test.png",
+    "tag": "TUTORIAL"
   }
 ]
